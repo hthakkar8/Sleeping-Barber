@@ -6,3 +6,5 @@ Our Implementation of Sleeping Barber problem in Java using Applets and Threads.
 * <a href="https://github.com/parthv21">Parth Tamane</a>
 * <a href="https://github.com/suyogT52">Suyog Tambe</a>
 
+### Screenshot:
+ ![Screenshot](Screenshot.png)
